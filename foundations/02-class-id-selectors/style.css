@@ -1,0 +1,18 @@
+.subsection {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+#third, #fourth {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color:  #7fffd4;
+    font-weight: bold;
+}
